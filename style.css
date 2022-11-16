@@ -14,7 +14,7 @@ body {
     margin-right: auto;
     margin-top: -250px;
     /* background-color: rgba(255, 255, 255, 1); */
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
 }
 
 nav {
@@ -657,7 +657,7 @@ main .icons a {
 .bottom p {
     position: absolute;
     width: 360px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     left: 450px;
     height: 60px;
     font-family: 'Federo';
